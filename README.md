@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sinemtaspiro
+- 👀 I’m interested in data
+- 🌱 I’m currently learning Machine learning
+- 📫 How to reach me sinem.taspiro@hotmail.com
